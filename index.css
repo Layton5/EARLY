@@ -59,3 +59,16 @@ table, th, td{
     box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.7);
 
 }
+  @media only screen and (max-width:768px) {
+        body{
+            background-color: tan;
+            
+        }
+.container-1, .container-2, .container-3, .container-4,.container-5{
+    background: #fff;
+    border-radius: 5px;
+    height: 80%;
+    width: 95%;
+    box-shadow: 2px 0 20px 1px rgba(0, 0, 0, 0.8)
+}
+    }
